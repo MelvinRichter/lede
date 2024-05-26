@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: test_lede
+name: test_lede_1
 
 on:
   push:
